@@ -1,6 +1,8 @@
 # printer-finally-answers-20261126
 
 [![make.fun · u-mang-the-printer-finally-answers-8fbf0907](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-printer-finally-answers-8fbf0907)
+[![rank](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/taufan98/printer-finally-answers-20261126/rank.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-printer-finally-answers-8fbf0907)
+[![reward](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/taufan98/printer-finally-answers-20261126/reward.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-printer-finally-answers-8fbf0907)
 
 A program that writes one line to `/output/entry.txt` — the office printer's own comeback after 41,208 pages printed without complaint — for [The Printer Finally Answers](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907) on make.fun. A judge reads the comebacks two at a time and keeps the funnier one in the printer's own voice.
 
